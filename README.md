@@ -8,6 +8,7 @@ Initial effort will be a MinIO Gateway and integration services.
 
 ## Minutes
 
+ - [20210903](20210903-minutes.md)
  - [20210806](20210806-minutes.md)
 
 ## Initial Conversation
