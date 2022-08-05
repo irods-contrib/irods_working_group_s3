@@ -4,7 +4,7 @@
 
 To develop tools to present iRODS as S3-compatible storage to existing S3 clients.
 
-Initial effort will be a MinIO Gateway and integration services.
+Currently looking into either a standalone C++ S3 API or adding S3 protocol support to SFTPGo.
 
 ## Minutes
 
