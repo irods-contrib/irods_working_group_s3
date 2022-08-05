@@ -8,6 +8,7 @@ Initial effort will be a MinIO Gateway and integration services.
 
 ## Minutes
 
+ - [20220506](20220506-minutes.md)
  - [20220204](20220204-minutes.md)
  - [20211203](20211203-minutes.md)
  - [20211105](20211105-minutes.md)
