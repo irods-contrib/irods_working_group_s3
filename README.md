@@ -8,6 +8,7 @@ Currently looking into either a standalone C++ S3 API or adding S3 protocol supp
 
 ## Minutes
 
+ - [20231201](20231201-minutes.md)
  - [20231103](20231103-minutes.md)
  - [20231006](20231006-minutes.md)
  - [20230901](20230901-minutes.md)
