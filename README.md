@@ -4,7 +4,9 @@
 
 To develop tools to present iRODS as S3-compatible storage to existing S3 clients.
 
-Currently looking into either a standalone C++ S3 API or adding S3 protocol support to SFTPGo.
+Have developed the [C++ iRODS S3 API](https://github.com/irods/irods_client_s3_api).
+
+Ongoing work is to improve performance and support additional endpoints.
 
 ## Minutes
 
