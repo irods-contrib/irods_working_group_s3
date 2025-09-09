@@ -10,6 +10,7 @@ Ongoing work is to improve performance and support additional endpoints.
 
 ## Minutes
 
+ - [20250905](20250905-minutes.md)
  - [20250801](20250801-minutes.md)
  - [20250502](20250502-minutes.md)
  - [20250307](20250307-minutes.md)
