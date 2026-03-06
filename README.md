@@ -1,5 +1,7 @@
 # iRODS S3 Working Group
 
+This working group has been dissolved.
+
 ## Mission
 
 To develop tools to present iRODS as S3-compatible storage to existing S3 clients.
@@ -10,6 +12,7 @@ Ongoing work is to improve performance and support additional endpoints.
 
 ## Minutes
 
+ - [20260306](20260306-minutes.md)
  - [20260206](20260206-minutes.md)
  - [20251107](20251107-minutes.md)
  - [20251003](20251003-minutes.md)
